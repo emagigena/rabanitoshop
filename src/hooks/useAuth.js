@@ -43,6 +43,6 @@ function useProvideAuth() {
   return {
     user,
     signIn,
-    logout
+    logout,
   };
 }
